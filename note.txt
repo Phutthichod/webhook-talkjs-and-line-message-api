@@ -1,0 +1,1 @@
+firebase deploy --only functions --project testfirebase2-1f711
